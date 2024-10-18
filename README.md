@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Gabriel Castoldi
-- 👀 I’m interested in learning about software development, especially mobile apps
+- 👀 I’m interested in learning about software development, especially Back-End
 - 🌱 I’m currently learning Java, JavaScript, and Android development
 - 💻 I have experience with databases and SQL Workbench
 - 📫 How to reach me: gabriel.castoldi@outlook.com
 - 😄 Pronouns: He/Him
-- 🎯 I'm working towards becoming a mobile app developer
 - 🔧 Tools I'm familiar with: Android Studio, SQL Workbench, Git
