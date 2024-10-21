@@ -1,22 +1,25 @@
 # Gabriel Castoldi
 
-👋 Olá! Eu sou Gabriel Castoldi, entusiasta do desenvolvimento de software com foco em Back-End. Tenho uma base sólida em Java e C, e atualmente estou expandindo meus conhecimentos em tecnologias como JavaScript e desenvolvimento Android.
+👋 Hello! I am Gabriel Castoldi, a software development enthusiast focused on Back-End. I have a solid foundation in Java and C, and I am currently expanding my knowledge in technologies such as JavaScript and Android development.
 
-## Tecnologias e Ferramentas
-- **Linguagens**: Java, C, JavaScript
-- **Desenvolvimento Mobile**: Android Studio
-- **Banco de Dados**: Atualmente aprendendo SQL e bancos de dados
-- **Controle de Versão**: Git
+## Technologies and Tools
+
+- **Languages**: Java, C, JavaScript
+- **Mobile Development**: Android Studio
+- **Database**: Currently learning SQL and databases
+- **Version Control**: Git
 - **Cloud Computing**: AWS
-- **Sistema Operacional**: Ubuntu 24.04.1 LTS
+- **Operating System**: Ubuntu 24.04.1 LTS
 
-## O que estou aprendendo
-- Desenvolvimento Java
+## What I Am Learning
+
+- Java Development
 - JavaScript
-- Desenvolvimento Android
+- Android Development
 - MySQL Workbench
 
-## Sobre mim
-Atualmente, utilizo o Ubuntu como meu sistema principal, o que me permite maximizar a produtividade tanto em tarefas de desenvolvimento quanto em atividades diárias. Estou sempre em busca de novas oportunidades para aplicar e expandir meu conhecimento em um ambiente desafiador e colaborativo.
+## About Me
 
-📫 Como entrar em contato: gabriel.castoldi@outlook.com
+I currently use Ubuntu as my main operating system, which allows me to maximize productivity in both development tasks and daily activities. I am always seeking new opportunities to apply and expand my knowledge in a challenging and collaborative environment.
+
+📫 **How to contact me**: [gabriel.castoldi@outlook.com](mailto:gabriel.castoldi@outlook.com)
