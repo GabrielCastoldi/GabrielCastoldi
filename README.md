@@ -6,10 +6,9 @@
 
 - **Languages**: Java, C, JavaScript
 - **Mobile Development**: Android Studio
-- **Database**: Currently learning SQL and databases
+- **Database**: SQL and databases
 - **Version Control**: Git
-- **Cloud Computing**: AWS
-- **Operating System**: Ubuntu 24.04.1 LTS
+- **Operating System**: Ubuntu
 
 ## What I Am Learning
 
@@ -17,9 +16,11 @@
 - JavaScript
 - Android Development
 - MySQL Workbench
+- Cloud Computing
+- Spring
 
 ## About Me
 
-I currently use Ubuntu as my main operating system, which allows me to maximize productivity in both development tasks and daily activities. I am always seeking new opportunities to apply and expand my knowledge in a challenging and collaborative environment.
+I am always seeking new opportunities to apply and expand my knowledge in a challenging and collaborative environment.
 
 📫 **How to contact me**: [gabriel.castoldi@outlook.com](mailto:gabriel.castoldi@outlook.com)
